@@ -8,21 +8,21 @@ const services = [
     title: "Anxiety & Stress Management",
     description:
       "Learn effective coping strategies to manage anxiety, panic attacks, and stress using CBT and mindfulness techniques.",
-    image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/Anxiety-&-Stress-Management.jpg",
     price: "$200 / session",
   },
   {
     title: "Relationship Counseling",
     description:
       "Improve communication and resolve conflicts to build stronger, healthier relationships in a safe environment.",
-    image: "https://images.unsplash.com/photo-1721322800607-8c38375eef04?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/family-therapy-psychologist-office.jpg",
     price: "$240 / couples session",
   },
   {
     title: "Trauma Recovery",
     description:
       "Heal from past experiences with trauma-informed care that empowers and supports you every step of the way.",
-    image: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/trauma-recovery.jpg",
     price: "$200 / session",
   },
 ];
