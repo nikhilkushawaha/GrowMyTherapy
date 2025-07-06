@@ -46,7 +46,7 @@ const FAQ = () => {
           {/* Call to Action */}
           <div className="text-center mt-12">
             <p className="text-gray-600 mb-4">
-              Still have questions? I'm here to help.
+              Still have questions? I&apos;m here to help.
             </p>
             <button
               onClick={scrollToContact}

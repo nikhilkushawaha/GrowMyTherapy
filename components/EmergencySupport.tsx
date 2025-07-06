@@ -5,7 +5,7 @@ const EmergencySupport = () => (
     <CardContent className="p-8">
       <h3 className="text-2xl font-serif font-semibold mb-4">Emergency Support</h3>
       <p className="mb-4">
-        If you're experiencing a mental health emergency, please contact:
+        If you&apos;re experiencing a mental health emergency, please contact:
       </p>
       <div className="space-y-2">
         <p><strong>Suicide Prevention Lifeline:</strong> 988</p>

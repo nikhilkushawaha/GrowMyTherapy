@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 
 const About = () => {
   return (
-    <section id="about" className="py-20 bg-white">
+    <section id="about" className="py-20 bg-[#f7f6f4]">
       <div className="container mx-auto px-4 max-w-6xl">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-serif font-bold text-[hsla(60,1.56%,25.1%,1)] mb-6">
@@ -41,9 +41,9 @@ const About = () => {
               </h4>
               <p className="leading-relaxed">
                 Whether you meet in my Maplewood Drive office or connect
-                virtually via Zoom, I'm committed to creating a safe, supportive
+                virtually via Zoom, I&apos;m committed to creating a safe, supportive
                 space for you to thrive. My practice combines evidence-based
-                techniques with genuine compassion to help you navigate life's
+                techniques with genuine compassion to help you navigate life&apos;s
                 challenges and discover your inner strength.
               </p>
             </div>

@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -20,7 +21,12 @@ const Navbar = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
-            <img src="/logo_icon.svg" alt="logo" className="w-10 h-10" />
+            <Image
+             src="/logo_icon.svg" 
+             alt="logo"
+             width={40}
+             height={40}
+             className="object-cover" />
             <div>
               <h1 className="text-xl font-serif  text-primary ml-2">
                 Dr. Serena Blake, PsyD
